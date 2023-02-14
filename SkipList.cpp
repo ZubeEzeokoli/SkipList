@@ -4,7 +4,6 @@
 #include <cmath> // for log2
 #include <string>
 #include <vector>
-#include "runtimeexcept.hpp"
 #include <cmath>
 #include <iostream>
 
